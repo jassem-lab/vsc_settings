@@ -1,0 +1,157 @@
+{
+    "editor.fontFamily": "Victor Mono Medium" , 
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "morgan.codes",
+    "editor.fontFamily": "Victor Mono SemiBold",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tokenColorCustomizations": {
+        "[Nord]": {
+          "textMateRules": [
+            {
+              "scope": "emphasis",
+              "settings": {
+                "fontStyle": ""
+              }
+            },
+            {
+              "scope": "strong",
+              "settings": {
+                "fontStyle": "bold"
+              }
+            },
+            {
+              "scope": "entity.other.attribute-name",
+              "settings": {
+                "fontStyle": ""
+              }
+            },
+            {
+              "scope": "markup.underline",
+              "settings": {
+                "fontStyle": "underline"
+              }
+            },
+            {
+              "scope": "markup.bold",
+              "settings": {
+                "fontStyle": "bold"
+              }
+            },
+            {
+              "scope": "markup.heading",
+              "settings": {
+                "fontStyle": "bold"
+              }
+            },
+            {
+              "scope": "markup.italic",
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": "storage.type",
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": "storage.modifier",
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "name": "String interpolation",
+              "scope": [
+                "punctuation.definition.template-expression.begin",
+                "punctuation.definition.template-expression.end",
+                "punctuation.section.embedded"
+              ],
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": "keyword.control",
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": [
+                "keyword.operator.new",
+                "keyword.operator.expression",
+                "keyword.operator.cast",
+                "keyword.operator.sizeof",
+                "keyword.operator.logical.python"
+              ],
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "name": "this.self",
+              "scope": "variable.language",
+              "settings": {
+                "fontStyle": "italic",
+                "foreground": "#ff5874"
+              }
+            },
+            {
+              "name": "@Decorator",
+              "scope": ["meta.decorator punctuation.decorator"],
+              "settings": {
+                "fontStyle": "italic"
+              }
+            },
+            {
+              "scope": ["punctuation.definition.comment", "comment"],
+              "settings": {
+                // "foreground": "#ff5874",
+                "fontStyle": "italic"
+              }
+            }
+          ]
+        },
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.automationShell.windows": "",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": { "javascript":"javascriptreact" },
+    "emmet.preferences": {
+    
+    },
+    "liveshare.anonymousGuestApproval": "accept",
+    "workbench.statusBar.visible": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.fontSize": 16,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "window.zoomLevel": -2,
+    "launch": {
+    
+      "configurations": [],
+      "compounds": []
+    }
+  }
+ 
